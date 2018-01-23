@@ -3,5 +3,5 @@ var playlist = {
 }
 
 function updatePlaylist(playlist, 'artistNames', 'songTitle') {
-  playlist[artisNames] = 
+  playlist['Phil Ochs'] = 
 }
