@@ -1,5 +1,0 @@
-var playlist = {
-  artistNames = 
-  songTitle = 
-  
-}
