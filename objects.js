@@ -1,5 +1,5 @@
 var playlist = {
   artistNames = 
-  
+  songTitle = 
   
 }
